@@ -1,0 +1,6 @@
+name: PlayerAbility
+version: '${version}'
+main: com.joshuaschreyer.playerability.PlayerAbility
+api-version: 1.19
+load: STARTUP
+authors: [ JoshuaSchreyer ]
